@@ -1,5 +1,6 @@
-ReplicaNumber: 1cd
+ReplicaNumber: 1
 
+##
 containers:
   containerPort: 8080
   image: 'quay.io/refaelsitbon/app'
